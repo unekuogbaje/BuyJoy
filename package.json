@@ -1,0 +1,19 @@
+{
+  "name": "retail-pro",
+  "version": "1.0.0",
+  "description": "Exploring The MERN Stack building an eCommerce application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unekuogbaje/BuyJoy.git"
+  },
+  "author": "Flo Ogbaje",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unekuogbaje/BuyJoy/issues"
+  },
+  "homepage": "https://github.com/unekuogbaje/BuyJoy#readme"
+}
