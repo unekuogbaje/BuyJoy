@@ -2,9 +2,10 @@
   "name": "retail-pro",
   "version": "1.0.0",
   "description": "Exploring The MERN Stack building an eCommerce application.",
+  "type": "module",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node backend/server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/unekuogbaje/BuyJoy/issues"
   },
-  "homepage": "https://github.com/unekuogbaje/BuyJoy#readme"
+  "homepage": "https://github.com/unekuogbaje/BuyJoy#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
